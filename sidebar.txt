@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[srk:home|Door43 (srk)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-srk|d43-srk repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-srk/archive/master.zip|d43-srk.zip]]
+
+**Recent Changes**
+{{changes>ns = srk}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/srk|Ethnologue data]]
+
